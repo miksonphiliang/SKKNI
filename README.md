@@ -1,1 +1,1 @@
-# SKKNI-aritmatika
+# SKKNI
